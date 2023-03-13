@@ -1,2 +1,2 @@
-# FigurasTest
-Prueba de Lenguaje Goland con el concepto de modularizacion
+#Modelo de figuras trabajados en distintos archivos con GOlang
+
